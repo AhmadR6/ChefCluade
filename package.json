@@ -1,0 +1,24 @@
+{
+  "name": "scriba-chef",
+  "description": "AI-powered recipe generator using Claude and Hugging Face",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.27.3",
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.24.1",
+    "@huggingface/inference": "^2.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^10.1.0",
+    "react-spinners": "^0.17.0",
+    "vite": "^5.2.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
