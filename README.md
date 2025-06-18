@@ -10,7 +10,7 @@ ChefClaude is a simple AI-powered recipe generator. Just enter the ingredients y
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/AhmadR6/ChefCluade/raw/main/public/screenshot.png)
+![App Screenshot](https://github.com/AhmadR6/ChefCluade/raw/main/screenshot.png)
 
 ## 🚀 Features
 
