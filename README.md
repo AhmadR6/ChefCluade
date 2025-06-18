@@ -1,19 +1,28 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 👨‍🍳 ChefClaude
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+ChefClaude is a simple AI-powered recipe generator. Just enter the ingredients you have at home, and it’ll suggest a recipe you can cook with them – powered by OpenRouter's free AI models.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🧠 Built With
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- React (Vite)
+- JavaScript
+- OpenRouter AI API (DeepSeek R1 model)
 
-Happy Coding!
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/AhmadR6/ChefCluade/raw/main/public/screenshot.png)
+
+## 🚀 Features
+
+- 🔎 Type or select ingredients you have
+- 🧑‍🍳 Get a full markdown-formatted recipe suggestion
+- ⚡ Fast responses using free AI via OpenRouter API
+- 🔄 Loading indicator while the AI thinks
+
+## 📦 Setup Instructions
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/AhmadR6/ChefCluade.git
+   cd ChefCluade
+   ```
